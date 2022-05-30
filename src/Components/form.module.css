@@ -1,0 +1,53 @@
+.container{
+    margin-top: 30px;
+}
+.btn{
+    text-align: center;
+}
+.container1{
+    width:fit-content;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin: auto;
+    padding: 20px;
+}
+.input{
+    margin-left: 15px;
+    border:1px solid black;
+}
+.input1{
+    margin-left: 29px;
+    border:1px solid black;
+    margin-top:2px;
+}
+.input2{
+    margin-left: 16px;
+    border:1px solid black;
+}
+.input4{
+    border:1px solid black;
+    margin-top:2px;
+}
+.input5{
+    border:1px solid black;
+    margin-top:2px;
+}
+.input6{
+    margin-left: 16px;
+    border:1px solid black;
+    margin-top: 2px;
+}
+.heading{
+    text-align: center;
+}
+.form{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width:fit-content;
+    margin-left: 10px;
+    margin: auto;
+    margin-top: 25px;
+    padding-left: 10px;
+    padding: 10px;
+    
+}

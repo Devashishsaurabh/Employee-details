@@ -1,0 +1,31 @@
+{
+  "Data": [
+    {
+      "id": "bd0c6074-af8b-414d-88ad-a81a4f06080b",
+      "name": "Devashish",
+      "age": "18",
+      "address": "Varanasi-(U.P)",
+      "department": "FWD",
+      "salary": "85000",
+      "marital": "Unmaried"
+    },
+    {
+      "id": "25d733ee-a7f8-4975-b2ab-94e37a036046",
+      "name": "dfdf",
+      "age": "545",
+      "address": "dfdf",
+      "department": "Frontend",
+      "salary": "65636123",
+      "marital": "Unmaried"
+    },
+    {
+      "id": "1449e226-15b7-4f60-aec9-e9f319503ae3",
+      "name": "abhinav",
+      "age": "25",
+      "address": "MadhyaPradesh",
+      "department": "Java Backend",
+      "salary": "5822",
+      "marital": "Maried"
+    }
+  ]
+}
